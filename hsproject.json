@@ -1,5 +1,5 @@
 {
     "name": "fincademo3",
-    "srcDir": "src"
-  }
-  
+    "srcDir": "src",
+    "platformVersion": "2023.2"
+   }
